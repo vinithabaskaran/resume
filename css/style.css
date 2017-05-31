@@ -9,6 +9,8 @@ main
     background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
     float:left;
     position: fixed;
+    padding:0;
+    margin:0;
 }
 
 h2.about-me 
@@ -16,13 +18,13 @@ h2.about-me
     margin: 32px;
     font-family: 'acme';
 }
-p.about-description
- {
-    font-family: 'Acme';
-    color: white;
+p.about-description {
+   
     margin: -25px 0px 0px 55px;
-    font-family: 'Baloo Bhaina';
+   
     color: navy;
+    font-family: 'Roboto Slab';
+    font-size: 18px;
 }
 i.fa.fa-user-circle-o 
 {
@@ -100,7 +102,7 @@ p.location-address1
 h2.skills1 
 {
     font-family: 'acme';
-    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
     margin: 0px 0px 0px 0px;
 }
 ul {
@@ -125,6 +127,8 @@ main1
     background: #efefef;
     float: right;
     position: relative;
+    margin:0;
+    padding:0;
 }
 span.skills 
 {
@@ -187,12 +191,12 @@ i.fa.fa-music
 }
 i.fa.fa-plane 
 {
-	margin: -41px 20px 20px 45px;
+    margin: -41px 20px 20px 45px;
 }
 h2.my-experience 
 {
     font-family: 'acme';
-    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
     margin: 0px 0px 0px 0px;
    
 }
@@ -203,7 +207,7 @@ i.fa.fa-university
 h2.education 
 {
     font-family: 'acme';
-    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
     margin: 0px 0px 0px 0px;
 }
 i.fa.fa-graduation-cap 
@@ -214,8 +218,7 @@ h2.interest
 {
     font-family: acme;
     margin: 0px 0px 0px 0px;
-    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
-}
+    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
 ul 
 {
     font-family: 'acme';
@@ -343,10 +346,7 @@ i.star6
  {
     margin: 51px;
 }
-i.star7
-{
-    margin: -40px;
-}
+
 i.star11 
 {
     margin: 11px;
