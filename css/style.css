@@ -1,0 +1,369 @@
+img
+{
+    width: 99%;
+    height: 298px;
+}
+main
+{
+    width: 40%;
+    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    float:left;
+    position: fixed;
+}
+
+h2.about-me 
+{
+    margin: 32px;
+    font-family: 'acme';
+}
+p.about-description
+ {
+    font-family: 'Acme';
+    color: white;
+    margin: -25px 0px 0px 55px;
+    font-family: 'Baloo Bhaina';
+    color: navy;
+}
+i.fa.fa-user-circle-o 
+{
+    margin: 20px;
+}
+p.personal-number 
+{
+    margin: 61px;
+        color: white;
+}
+h2.personal-number
+ {
+    margin: 38px;
+    font-family: 'acme'
+}
+p.personal-number2 
+{
+    font-family: 'acme';
+    margin: 20px 20px 58px 73px;
+        color: white;
+}
+p.personal-number1 
+{
+    margin: -42px 20px 22px 73px;
+    
+        color: white;
+   
+}
+i.fa.fa-mobile 
+{
+    margin: 20px;
+}
+h2.mail-id1
+ {
+    font-family: 'acme';
+    margin: 11px 0px 0px 36px;
+}
+p.id 
+{
+    font-family: 'acme';
+    margin: 20px 20px 58px 73px;
+    color: white;
+}
+p.id1 
+{
+    margin: -42px 20px 22px 73px;
+    font-family: 'acme';
+    color: white;
+}
+i.fa.fa-envelope-o 
+{
+    margin: 20px;
+}
+h2.location
+{
+    font-family: 'acme';
+    margin: 11px 0px 0px 36px;
+}
+i.fa.fa-map-marker 
+{
+    margin: 20px;
+}
+p.location-address 
+{
+    font-family: 'acme';
+    margin: 20px 20px 58px 73px;
+    color: white;
+}
+p.location-address1 
+{
+    margin: -42px 20px 22px 73px;
+    font-family: 'acme';
+    color: white;
+}
+h2.skills1 
+{
+    font-family: 'acme';
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    margin: 0px 0px 0px 0px;
+}
+ul {
+  
+    font-family: 'acme';
+    margin: 24px 18px 54px 48px;
+    color: white;
+}
+i.fa.fa-television 
+{
+    margin: 20px;
+}
+ul.skills-list
+{
+    font-family: 'acme';
+    margin: 24px 18px 54px 48px;
+    color:black;
+}
+main1 
+{
+    width: 60%;
+    background: #efefef;
+    float: right;
+    position: relative;
+}
+span.skills 
+{
+    margin: 20px 20px 21px 121px;
+    float: left;
+    display: block;
+    width: 70%;
+    background-color: white;
+}
+span.border
+{
+   
+    margin: 20px 20px 20px 123px;
+    float: left;
+    display: block;
+    width: 70%;
+    background-color: white;
+}
+
+span.my-education {
+    margin: 12px 20px 20px 121px;
+    float: left;
+    display: block;
+    width: 70%;
+    background-color: white;
+}
+span.my-interest 
+{
+
+  
+    margin: 12px 20px 20px 121px;
+    float: left;
+    display: block;
+    width: 70%;
+    background-color: white;
+}
+i.fa.fa-book
+{
+    margin: 35px 0px 0px 66px;
+}
+i.fa.fa-user-circle 
+{
+   margin: 0px 0px 0px 33px;
+}
+i.fa.fa-coffee 
+{
+    margin: 0px 0px 0px 33px;
+}
+i.fa.fa-trophy 
+{
+    margin: 0px 0px 0px 33px;
+}
+i.fa.fa-internet-explorer 
+{
+    margin: 0px 0px 0px 33px;
+}
+i.fa.fa-music 
+{
+   margin: 0px 0px 0px 33px;
+}
+i.fa.fa-plane 
+{
+	margin: -41px 20px 20px 45px;
+}
+h2.my-experience 
+{
+    font-family: 'acme';
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    margin: 0px 0px 0px 0px;
+   
+}
+i.fa.fa-university 
+{
+    margin: 20px;
+}
+h2.education 
+{
+    font-family: 'acme';
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    margin: 0px 0px 0px 0px;
+}
+i.fa.fa-graduation-cap 
+{
+    margin: 20px;
+}
+h2.interest 
+{
+    font-family: acme;
+    margin: 0px 0px 0px 0px;
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+}
+ul 
+{
+    font-family: 'acme';
+    margin: 50px 18px 54px 48px;
+    color: black;
+}
+p.presents
+ {
+    font-family: 'acme';
+    margin: 30px 18px 54px 67px;
+    color: black;
+}
+p.presents1
+ {
+    font-family: 'acme';
+    margin: -36px 18px 54px 67px;
+    color: black;
+}
+i.fa.fa-thumbs-o-up
+ {
+    margin: 20px;
+}
+
+.contact-section {
+    
+    font-family: 'Baloo Bhaina';
+    
+}
+.mobile.number 
+{
+    margin: 28px 20px 18px 44px;
+}
+i.fa.fa-phone 
+{
+    margin: 20px;
+}
+.mail.id
+ {
+    display: block;
+    margin: -25px 20px 20px 43px;
+}
+i.fa.fa-envelope-o 
+{
+    margin: 20px;
+}
+.location
+ {
+    display: block;
+    margin: -41px 20px 20px 45px;
+}
+i.fa.fa-map-marker
+ {
+    margin: 20px;
+}
+i.fill 
+{
+    color: red;
+}
+i.fill
+{
+    color: red;
+    margin: 20px;
+}
+i.fill1 
+{
+    color: red;
+    margin: -8px;
+}
+i.fill3 
+{
+    color: red;
+    margin: 20px;
+}
+i.fill4
+ {
+    color: red;
+    margin: 20px;
+}
+i.fill5
+ {
+    color: red;
+    margin: -7px;
+}
+i.fill6 
+{
+    color: red;
+    margin: 53px;
+}
+i.fill7
+ {
+    color: red;
+    margin: -39px;
+}
+i.fill8 
+{
+    color: red;
+    margin: 66px;
+}
+i.fill9 
+{
+    color: red;
+    margin: -50px;
+}
+i.star2 
+{
+    margin: 19px;
+}
+i.star1 
+{
+    margin: -7px;
+}
+i.star5
+{
+    margin: 18px;
+}
+i.star3
+{
+    margin: -8px;
+}
+i.star4
+{
+    margin: 18px;
+}
+i.star6
+ {
+    margin: 51px;
+}
+i.star7
+{
+    margin: -40px;
+}
+i.star11 
+{
+    margin: 11px;
+}
+i.star13
+ {
+    margin: 57px;
+}
+i.star12 
+{
+    margin: -46px;
+}
+i.star14 
+{
+    margin: 58px;
+}
+li.skills5 
+{
+    margin: -16px 0px 0px 0px;
+}
