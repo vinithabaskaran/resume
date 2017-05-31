@@ -1,3 +1,9 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+
 img
 {
     width: 100%;
@@ -121,7 +127,7 @@ ul.skills-list
     margin: 24px 18px 54px 48px;
     color:black;
 }
-main1 
+.main1 
 {
     width: 60%;
     background: #efefef;
