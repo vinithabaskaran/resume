@@ -296,7 +296,7 @@ i.fill
 i.fill1 
 {
     color: #181717;
-    margin: -8px;
+    margin: -24px;
 }
 i.fill3
  {
@@ -305,7 +305,7 @@ i.fill3
 }
 i.star1
 {
-    margin: -7px;
+    margin: -24px;
     color: mistyrose;
 }
 i.star2 
@@ -316,37 +316,37 @@ i.star2
 i.fill4 
 {
     color: #1a1919;
-    margin: 25px;
+    margin: 30px;
 }
 i.fill5 
 {
     color: #1c1818;
-    margin: -14px;
+    margin: -34px;
 }
 i.star5 
 {
-    margin: 27px;
+    margin: 31px;
     color: mistyrose;
 }
 i.star3 
 {
-    margin: -14px;
+    margin: -33px;
     color: mistyrose;
 }
 i.star4 
 {
     color: mistyrose;
-    margin: 25px;
+    margin: 29px;
 }
 i.fill6
  {
     color: black;
-    margin: 63px;
+    margin: 65px;
 }
 i.fill7 
 {
     color: black;
-    margin: -53px;
+    margin: -68px;
 }
 i.fill10 
 {
@@ -355,7 +355,7 @@ i.fill10
 }
 i.star6 
 {
-    margin: -51px;
+    margin: -66px;
     color: mistyrose;
 }
 i.star7
@@ -366,39 +366,41 @@ i.star7
 i.fill8
  {
     color: #0c0b0b;
-    margin: 66px;
+    margin: 73px;
 }
 i.fill9 
 {
     color: #181818;
-    margin: -55px;
+    margin: -75px;
 }
 i.star13 
 {
-    margin: 66px;
+    margin: 70px;
     color: mistyrose;
 }
 i.star12 
 {
-    margin: -51px;
+    margin: -73px;
     color: mistyrose;
 }
 i.star14 
 {
     color: mistyrose;
-    margin: 61px;
+    margin: 69px;
 }
 .skills-list li img 
 {
     width: 30px;
     height: 22px;
     vertical-align: bottom;
+    margin: 0px 22px 0px 0px;
 }
 .education-list li img
 {
    width: 30px;
     height: 22px;
     vertical-align: bottom; 
+    margin: 0px 22px 0px 0px
 }
 li.skills3
  {
@@ -435,9 +437,13 @@ li.skills5
 }
 li.HSC1
  {
-    margin: 0px 0px 0px 29px;
+    margin: 0px 0px 0px 50px;
 }
 li.degree1
  {
-    margin: 0px 0px 0px 29px;
+    margin: 0px 0px 0px 51px;
+}
+p.book1 
+{
+    margin: 0px 0px 0px 58px;
 }
