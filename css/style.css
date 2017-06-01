@@ -29,7 +29,7 @@ p.about-description {
     margin: -25px 0px 0px 55px;
    
     color: navy;
-    font-family: 'Roboto Slab';
+    font-family: 'roboto';
     font-size: 18px;
 }
 i.fa.fa-user-circle-o 
@@ -113,9 +113,10 @@ h2.skills1
 }
 ul {
   
-    font-family: 'acme';
+    font-family: 'roboto';
     margin: 24px 18px 54px 48px;
-    color: white;
+    color:navy;
+    list-style:none;
 }
 i.fa.fa-television 
 {
@@ -123,11 +124,12 @@ i.fa.fa-television
 }
 ul.skills-list
 {
-    font-family: 'acme';
+    font-family: 'roboto';
     margin: 24px 18px 54px 48px;
-    color:black;
+    color:navy;
+    list-style: none;
 }
-.main1 
+main1 
 {
     width: 60%;
     background: #efefef;
@@ -228,21 +230,21 @@ h2.interest
 }
 ul 
 {
-    font-family: 'acme';
+    font-family: 'roboto';
     margin: 50px 18px 54px 48px;
-    color: black;
+    color: navy;
 }
 p.presents
  {
-    font-family: 'acme';
-    margin: 30px 18px 54px 67px;
-    color: black;
+    font-family: 'roboto';
+    margin: 30px 18px 54px 90px;
+    color: navy;
 }
 p.presents1
  {
-    font-family: 'acme';
-    margin: -36px 18px 54px 67px;
-    color: black;
+    font-family: 'roboto';
+    margin: -36px 18px 54px 90px;
+    color: navy;
 }
 i.fa.fa-thumbs-o-up
  {
@@ -251,7 +253,7 @@ i.fa.fa-thumbs-o-up
 
 .contact-section
  {
-    font-family: roboto;
+    font-family:'roboto';
  }
 .mobile.number 
 {
@@ -314,52 +316,52 @@ i.star2
 i.fill4 
 {
     color: #1a1919;
-    margin: 23px;
+    margin: 25px;
 }
 i.fill5 
 {
     color: #1c1818;
-    margin: -11px;
+    margin: -14px;
 }
 i.star5 
 {
-    margin: 23px;
+    margin: 27px;
     color: mistyrose;
 }
 i.star3 
 {
-    margin: -10px;
+    margin: -14px;
     color: mistyrose;
 }
 i.star4 
 {
     color: mistyrose;
-    margin: 22px;
+    margin: 25px;
 }
 i.fill6
  {
     color: black;
-    margin: 54px;
+    margin: 63px;
 }
 i.fill7 
 {
     color: black;
-    margin: -41px;
+    margin: -53px;
 }
 i.fill10 
 {
     color: mistyrose;
-    margin: 53px;
+    margin: 64px;
 }
 i.star6 
 {
-    margin: -40px;
+    margin: -51px;
     color: mistyrose;
 }
 i.star7
  {
     color: mistyrose;
-    margin: 53px;
+    margin: 62px;
 }
 i.fill8
  {
@@ -369,7 +371,7 @@ i.fill8
 i.fill9 
 {
     color: #181818;
-    margin: -53px;
+    margin: -55px;
 }
 i.star13 
 {
@@ -378,11 +380,64 @@ i.star13
 }
 i.star12 
 {
-    margin: -53px;
+    margin: -51px;
     color: mistyrose;
 }
 i.star14 
 {
     color: mistyrose;
-    margin: 66px;
+    margin: 61px;
+}
+.skills-list li img 
+{
+    width: 30px;
+    height: 22px;
+    vertical-align: bottom;
+}
+.education-list li img
+{
+   width: 30px;
+    height: 22px;
+    vertical-align: bottom; 
+}
+li.skills3
+ {
+    margin: 7px 0px 0px 0px;
+}
+li.skills4 
+{
+    margin: 7px 0px 0px 0px;
+}
+li.skills5 
+{
+    margin: 7px 0px 0px 0px;
+}
+li.skills2
+ {
+    font-family: 'roboto';
+    color: navy;
+    /* margin: 0px 0px 0px 2px; */
+}
+li.skills3
+ {
+    color: navy;
+    font-family: 'roboto';
+}
+li.skills4
+ {
+    font-family: 'roboto';
+    color: navy;
+}
+li.skills5 
+{
+    font-family: 'roboto';
+    color: navy;
+}
+li.HSC1
+ {
+    margin: 0px 0px 0px 29px;
+}
+li.degree1
+ {
+    margin: 0px 0px 0px 29px;
 }
