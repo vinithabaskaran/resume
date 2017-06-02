@@ -12,7 +12,8 @@ img
 main
 {
     width: 40%;
-    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+   
+   background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
     float:left;
     position: fixed;
     padding:0;
@@ -22,7 +23,9 @@ main
 h2.about-me 
 {
     margin: 32px;
-    font-family: 'acme';
+    font-family: 'roboto';
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    color: white;
 }
 p.about-description {
    
@@ -107,9 +110,11 @@ p.location-address1
 }
 h2.skills1 
 {
-    font-family: 'acme';
-    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    color: white;
     margin: 0px 0px 0px 0px;
+    font-family: 'roboto';
+    
 }
 ul {
   
@@ -176,6 +181,7 @@ span.my-interest
 i.fa.fa-book
 {
     margin: 35px 0px 0px 66px;
+    padding: 20px;
 }
 i.fa.fa-user-circle 
 {
@@ -203,10 +209,12 @@ i.fa.fa-plane
 }
 h2.my-experience 
 {
-    font-family: 'acme';
-    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    color: white;
     margin: 0px 0px 0px 0px;
-   
+
+   font-family: 'roboto';
+    
 }
 i.fa.fa-university 
 {
@@ -214,9 +222,11 @@ i.fa.fa-university
 }
 h2.education 
 {
-    font-family: 'acme';
-    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    color: white;
     margin: 0px 0px 0px 0px;
+    font-family: 'roboto';
+    
 }
 i.fa.fa-graduation-cap 
 {
@@ -224,9 +234,12 @@ i.fa.fa-graduation-cap
 }
 h2.interest 
 {
-    font-family: acme;
     margin: 0px 0px 0px 0px;
-    background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    color: white;
+    font-family: 'roboto';
+    
+    
 }
 ul 
 {
@@ -237,13 +250,13 @@ ul
 p.presents
  {
     font-family: 'roboto';
-    margin: 30px 18px 54px 90px;
+    margin: 30px 18px 54px 84px;
     color: navy;
 }
 p.presents1
  {
     font-family: 'roboto';
-    margin: -36px 18px 54px 90px;
+    margin: -37px -18px 54px 83px;;
     color: navy;
 }
 i.fa.fa-thumbs-o-up
@@ -254,6 +267,7 @@ i.fa.fa-thumbs-o-up
 .contact-section
  {
     font-family:'roboto';
+    color: white;
  }
 .mobile.number 
 {
@@ -306,12 +320,12 @@ i.fill3
 i.star1
 {
     margin: -24px;
-    color: mistyrose;
+    color: #ff7eb3;
 }
 i.star2 
 {
     margin: 19px;
-    color: mistyrose;
+    color: #ff7eb3;
 }
 i.fill4 
 {
@@ -326,16 +340,16 @@ i.fill5
 i.star5 
 {
     margin: 31px;
-    color: mistyrose;
+    color: #ff7eb3;
 }
 i.star3 
 {
     margin: -33px;
-    color: mistyrose;
+    color: #ff7eb3;
 }
 i.star4 
 {
-    color: mistyrose;
+    color: #ff7eb3;
     margin: 29px;
 }
 i.fill6
@@ -350,17 +364,17 @@ i.fill7
 }
 i.fill10 
 {
-    color: mistyrose;
+    color: #ff7eb3;
     margin: 64px;
 }
 i.star6 
 {
     margin: -66px;
-    color: mistyrose;
+    color: #ff7eb3;
 }
 i.star7
  {
-    color: mistyrose;
+    color: #ff7eb3;
     margin: 62px;
 }
 i.fill8
@@ -376,16 +390,16 @@ i.fill9
 i.star13 
 {
     margin: 70px;
-    color: mistyrose;
+    color: #ff7eb3;
 }
 i.star12 
 {
     margin: -73px;
-    color: mistyrose;
+    color: #ff7eb3;
 }
 i.star14 
 {
-    color: mistyrose;
+    color: #ff7eb3;
     margin: 69px;
 }
 .skills-list li img 
@@ -446,4 +460,20 @@ li.degree1
 p.book1 
 {
     margin: 0px 0px 0px 58px;
+}
+li.degree 
+{
+    margin: 11px 0px 0px 0px;
+}
+p img 
+{
+    width: 30px;
+    height: 22px;
+    vertical-align: bottom;
+    margin: 0px 22px 0px 0px;
+}
+h3.book1
+ {
+    color: navy;
+    margin: 5px 0px 0px 60px;
 }
