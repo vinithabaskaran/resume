@@ -130,7 +130,7 @@ i.fa.fa-television
 ul.skills-list
 {
     font-family: 'roboto';
-    margin: 24px 18px 54px 48px;
+    margin: 50px 18px 54px 62px;
     color:navy;
     list-style: none;
 }
@@ -299,7 +299,8 @@ p.presents3
 {
     color: navy;
     font-family: roboto;
-    margin: 11px 0px 0px 132px;
+    margin: 11px 0px 0px 124px;
+    padding: 10px;
 }
 i.fa.fa-thumbs-o-up
  {
@@ -574,7 +575,8 @@ h3.book6
 h3.book7 
 {
     color: navy;
-    margin: -22px 0px 0px 466px;
+    margin: -47px 0px 0px 447px;
+    padding: 26px;
 }
 li.impo
  {
@@ -608,4 +610,8 @@ li.impo7
 li.impo8
  {
     margin: -21px 0px 0px 213px;
+}
+span.present 
+{
+    padding: 20px;
 }
