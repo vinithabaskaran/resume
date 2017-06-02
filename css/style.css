@@ -32,7 +32,7 @@ p.about-description {
    
     margin: -25px 0px 0px 55px;
    
-    color: navy;
+    color:#0b0a0c;
     font-family: 'roboto';
     font-size: 18px;
 }
@@ -572,4 +572,37 @@ h3.book7
 {
     color: navy;
     margin: -22px 0px 0px 466px;
+}
+li.impo
+ {
+    margin: -21px 0px 0px 263px;
+}
+li.impo1 
+{
+    margin: -21px 0px 0px 253px;
+}
+li.impo2 
+{
+    margin: -21px 0px 0px 219px;
+}
+li.impo3
+ {
+    margin: -21px 0px 0px 212px;
+}
+
+li.impo5 
+{
+    margin: -21px 0px 0px 265px;
+}
+li.impo6
+ {
+    margin: -21px 0px 0px 254px;
+}
+li.impo7 
+{
+    margin: -22px 0px 0px 220px;
+}
+li.impo8
+ {
+    margin: -21px 0px 0px 213px;
 }
