@@ -18,6 +18,7 @@ main
     position: fixed;
     padding:0;
     margin:0;
+    height:100%;
 }
 
 h2.about-me 
@@ -181,32 +182,58 @@ span.my-interest
 i.fa.fa-book
 {
     margin: 35px 0px 0px 66px;
-    padding: 20px;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 50px;
 }
 i.fa.fa-user-circle 
 {
    margin: 0px 0px 0px 33px;
+   padding: 7px;
+    border: 1px solid gray;
+    border-radius: 50px;
 }
+
 i.fa.fa-coffee 
 {
     margin: 0px 0px 0px 33px;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 50px;
 }
+
 i.fa.fa-trophy 
 {
     margin: 0px 0px 0px 33px;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 50px;
 }
+
 i.fa.fa-internet-explorer 
 {
     margin: 0px 0px 0px 33px;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 50px;
 }
+
 i.fa.fa-music 
 {
    margin: 0px 0px 0px 33px;
+   padding: 7px;
+    border: 1px solid gray;
+    border-radius: 50px;
 }
+
 i.fa.fa-plane 
 {
     margin: -41px 20px 20px 45px;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 50px;
 }
+
 h2.my-experience 
 {
     background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
@@ -256,8 +283,20 @@ p.presents
 p.presents1
  {
     font-family: 'roboto';
-    margin: -37px -18px 54px 83px;;
+    margin: -37px -18px 54px 135px;
     color: navy;
+}
+p.presents2 
+{
+    color: navy;
+    font-family: roboto;
+    margin: -44px 0px 0px 81px;
+}
+p.presents3 
+{
+    color: navy;
+    font-family: roboto;
+    margin: 11px 0px 0px 132px;
 }
 i.fa.fa-thumbs-o-up
  {
@@ -414,7 +453,10 @@ i.star14
    width: 30px;
     height: 22px;
     vertical-align: bottom; 
-    margin: 0px 22px 0px 0px
+    margin: 0px 22px 0px 0px;
+    border: 1px solid gray;
+    border-radius: 50px;
+    padding: 9px;
 }
 li.skills3
  {
@@ -476,4 +518,58 @@ h3.book1
  {
     color: navy;
     margin: 5px 0px 0px 60px;
+}
+li.degree2 
+{
+    margin: 0px 0px 0px 73px;
+}
+li.degree3 
+{
+    margin: 0px 0px 0px 73px;
+}
+li.Hsc3 
+{
+    margin: 0px 0px 0px 73px;
+}
+li.Hsc2 
+{
+    margin: 0px 0px 0px 73px;
+}
+li.degr 
+{
+    margin: -30px 0px 0px 75px;
+}
+li.hs
+ {
+    margin: -23px 0px 6px 73px;
+}
+h3.book2
+ {
+    color: navy;
+    margin: -23px 0px 0px 120px;
+}
+h3.book3
+ {
+    color: navy;
+    margin: -22px 0px 0px 199px;
+}
+h3.book4 
+{
+    color: navy;
+    margin: -22px 0px 0px 265px;
+}
+h3.book5 
+{
+    color: navy;
+    margin: -22px 0px 0px 327px;
+}
+h3.book6 
+{
+    color: navy;
+    margin: -22px 0px 0px 406px;
+}
+h3.book7 
+{
+    color: navy;
+    margin: -22px 0px 0px 466px;
 }
