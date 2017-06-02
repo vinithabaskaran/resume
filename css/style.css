@@ -31,8 +31,7 @@ h2.about-me
 p.about-description {
    
     margin: -25px 0px 0px 55px;
-   
-    color:#0b0a0c;
+    color:#ffffff;
     font-family: 'roboto';
     font-size: 18px;
 }
@@ -151,6 +150,7 @@ span.skills
     display: block;
     width: 70%;
     background-color: white;
+    box-shadow: 10px 10px 5px 0px #888888;
 }
 span.border
 {
@@ -160,6 +160,7 @@ span.border
     display: block;
     width: 70%;
     background-color: white;
+    box-shadow: 10px 10px 5px 0px #888888;
 }
 
 span.my-education {
@@ -168,6 +169,7 @@ span.my-education {
     display: block;
     width: 70%;
     background-color: white;
+    box-shadow: 10px 10px 5px 0px #888888;
 }
 span.my-interest 
 {
@@ -178,6 +180,7 @@ span.my-interest
     display: block;
     width: 70%;
     background-color: white;
+    box-shadow: 10px 10px 5px 0px #888888;
 }
 i.fa.fa-book
 {
@@ -306,7 +309,7 @@ i.fa.fa-thumbs-o-up
 .contact-section
  {
     font-family:'roboto';
-    color: white;
+    
  }
 .mobile.number 
 {
