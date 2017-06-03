@@ -286,20 +286,20 @@ p.presents
 p.presents1
  {
     font-family: 'roboto';
-    margin: -37px -18px 54px 135px;
+    margin: -45px -18px 54px 135px;
     color: navy;
 }
 p.presents2 
 {
     color: navy;
-    font-family: roboto;
+    font-family: 'roboto';
     margin: -44px 0px 0px 81px;
 }
 p.presents3 
 {
     color: navy;
-    font-family: roboto;
-    margin: 11px 0px 0px 124px;
+    font-family: 'roboto';
+    margin: -2px 0px 0px 124px;
     padding: 10px;
 }
 i.fa.fa-thumbs-o-up
@@ -575,7 +575,7 @@ h3.book6
 h3.book7 
 {
     color: navy;
-    margin: -47px 0px 0px 447px;
+    margin: -48px 0px 0px 447px;
     padding: 26px;
 }
 li.impo
@@ -614,4 +614,12 @@ li.impo8
 span.present 
 {
     padding: 20px;
+}
+li.degr1 
+{
+    margin: 3px 0px 0px 75px;
+}
+li.hrs 
+{
+    margin: -4px 0px 0px 73px;
 }
